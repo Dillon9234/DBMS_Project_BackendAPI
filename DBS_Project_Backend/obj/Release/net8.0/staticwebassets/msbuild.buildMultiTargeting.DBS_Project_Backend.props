@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DBS_Project_Backend.props" />
+</Project>

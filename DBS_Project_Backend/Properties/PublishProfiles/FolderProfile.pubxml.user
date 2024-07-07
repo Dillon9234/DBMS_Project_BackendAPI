@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Server</_PublishTargetUrl>
+    <History>True|2024-04-23T03:16:03.4135568Z;True|2024-04-23T07:48:41.2241591+05:30;True|2024-04-23T07:47:24.7815279+05:30;True|2024-04-23T07:44:06.7103690+05:30;True|2024-04-23T07:36:41.7227402+05:30;True|2024-04-23T06:34:45.6849730+05:30;True|2024-04-23T05:28:50.3886895+05:30;True|2024-04-23T05:09:59.6904481+05:30;True|2024-04-23T04:30:41.5026184+05:30;True|2024-04-22T18:56:47.0192043+05:30;True|2024-04-22T08:24:20.9597129+05:30;True|2024-04-17T06:56:08.4466532+05:30;True|2024-04-09T09:24:39.6151443+05:30;True|2024-04-08T14:13:07.3826574+05:30;True|2024-04-08T14:12:48.7730059+05:30;True|2024-04-07T15:35:32.8297793+05:30;True|2024-04-06T21:12:29.5647350+05:30;True|2024-04-03T05:39:04.0937225+05:30;True|2024-04-03T05:37:58.6170289+05:30;True|2024-04-03T05:36:19.7033741+05:30;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Default">
+      <Value>Data Source=MSI\SQLEXPRESS%3bInitial Catalog=EsportifyDatabase%3buser ID=MSI\Dillon%3bIntegrated Security=True%3bConnect Timeout=30%3bEncrypt=True%3bTrustServerCertificate=True%3bApplicationIntent=ReadWrite%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
